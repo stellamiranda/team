@@ -90,6 +90,36 @@
           40.72358364851729
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saba Raouf",
+        "role": "Web Developer (Ruby on Rails)",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3571581,
+          31.55460609999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Romina Roldán",
+        "role": "Project Manager",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5300334,
+          -33.4178063
+        ]
+      }
     }
   ]
 }
