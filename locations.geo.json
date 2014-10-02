@@ -6,7 +6,9 @@
       "properties": {
         "name": "Serhii Balbieko",
         "role": "Sysadmin & Devops",
-        "marker-size": "small"
+        "marker-size": "small",
+        "skype": "sergey.balbeko",
+        "phone": "+380970287755"
       },
       "geometry": {
         "type": "Point",
