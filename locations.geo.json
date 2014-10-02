@@ -70,6 +70,20 @@
           50.471445
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Theo Burry",
+        "role": "The Boss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99875640869139,
+          40.72358364851729
+        ]
+      }
     }
   ]
 }
