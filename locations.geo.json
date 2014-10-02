@@ -68,8 +68,7 @@
         "role": "Web Developer (Ruby on Rails)",
         "skype-id": "mikhail.bortnyk",
         "marker-size": "small",
-        "marker-color": "red",
-        "marker-symbol": "mobilephone"
+        "marker-color": "red"
       },
       "geometry": {
         "type": "Point",
