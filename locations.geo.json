@@ -66,7 +66,7 @@
       "properties": {
         "name": "Mikhail Bortnyk",
         "role": "Web Developer (Ruby on Rails)",
-        "skype_id": "mikhail.bortnyk",
+        "skype-id": "mikhail.bortnyk",
         "marker-size": "small",
         "marker-color": "red",
         "marker-symbol": "mobilephone"
