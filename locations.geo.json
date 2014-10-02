@@ -1,8 +1,8 @@
 {
-  "type": "MemberCollection",
-  "members": [
+  "type": "FeatureCollection",
+  "features": [
     {
-      "type": "Member",
+      "type": "Feature",
       "properties": {
         "name": "Serhii Balbieko",
         "role": "Sysadmin & Devops"
@@ -16,7 +16,7 @@
       }
     },
     {
-      "type": "Member",
+      "type": "Feature",
       "properties": {
         "name": "Bakhti Aripov",
         "role": "Sysadmin"
