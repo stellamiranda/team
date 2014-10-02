@@ -56,8 +56,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.237030029296875,
-          49.97683835509416
+          44.51454162597656,
+          40.1822832618918
         ]
       }
     },
@@ -66,7 +66,9 @@
       "properties": {
         "name": "Mikhail Bortnyk",
         "role": "Web Developer (Ruby on Rails)",
-        "marker-size": "small"
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "mobilephone"
       },
       "geometry": {
         "type": "Point",
