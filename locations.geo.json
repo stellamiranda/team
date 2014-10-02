@@ -28,6 +28,20 @@
           49.97683835509416
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mariam Mosinyan",
+        "role": "Web developer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51454162597656,
+          40.1822832618918
+        ]
+      }
     }
   ]
 }
