@@ -1,0 +1,33 @@
+{
+  "type": "MemberCollection",
+  "members": [
+    {
+      "type": "Member",
+      "properties": {
+        "name": "Serhii Balbieko",
+        "role": "Sysadmin & Devops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.21222496032715,
+          50.05277148176145
+        ]
+      }
+    },
+    {
+      "type": "Member",
+      "properties": {
+        "name": "Bakhti Aripov",
+        "role": "Sysadmin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.21222496032715,
+          50.05277148176145
+        ]
+      }
+    }
+  ]
+}
