@@ -33,13 +33,41 @@
       "type": "Feature",
       "properties": {
         "name": "Mariam Mosinyan",
-        "role": "Web developer"
+        "role": "Web Developer (UI)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           44.51454162597656,
           40.1822832618918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slavik Romanuk",
+        "role": "Mobile Developer(Android)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51454162597656,
+          40.1822832618918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mikhail Bortnyk",
+        "role": "Web Developer (Ruby on Rails)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.471889,
+          50.471445
         ]
       }
     }
