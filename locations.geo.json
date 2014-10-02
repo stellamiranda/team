@@ -125,6 +125,21 @@
           -33.4178063
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fahim Farook",
+        "role": "Mobile Developer(iOS)",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7333,
+          1.4833
+        ]
+      }
+    }	
   ]
 }
