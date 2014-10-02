@@ -67,8 +67,7 @@
         "name": "Mikhail Bortnyk",
         "role": "Web Developer (Ruby on Rails)",
         "skype": "mikhail.bortnyk",
-        "marker-size": "small",
-        "marker-color": "red"
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
