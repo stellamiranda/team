@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "name": "Serhii Balbieko",
-        "role": "Sysadmin & Devops"
+        "role": "Sysadmin & Devops",
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bakhti Aripov",
-        "role": "Sysadmin"
+        "role": "Sysadmin",
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +35,8 @@
       "type": "Feature",
       "properties": {
         "name": "Mariam Mosinyan",
-        "role": "Web Developer (UI)"
+        "role": "Web Developer (UI)",
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "name": "Slavik Romanuk",
-        "role": "Mobile Developer(Android)"
+        "role": "Mobile Developer(Android)",
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +65,8 @@
       "type": "Feature",
       "properties": {
         "name": "Mikhail Bortnyk",
-        "role": "Web Developer (Ruby on Rails)"
+        "role": "Web Developer (Ruby on Rails)",
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +80,8 @@
       "type": "Feature",
       "properties": {
         "name": "Theo Burry",
-        "role": "The Boss"
+        "role": "The Boss",
+        "marker-size": "small"
       },
       "geometry": {
         "type": "Point",
