@@ -140,6 +140,21 @@
           1.4833
         ]
       }
-    }	
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "name": "Sapna Parwani",
+        "role": "Front End Developer",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+		  23.058786, 
+		  72.588259
+        ]
+      }
+    }
   ]
 }
